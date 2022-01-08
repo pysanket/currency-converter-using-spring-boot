@@ -1,0 +1,4 @@
+currency:
+    converter:
+      uri:
+        https://freecurrencyapi.net/api/v2/latest?apikey=1e4eb930-6f1a-11ec-9970-6bb59e3e4f51&base_currency={0}
