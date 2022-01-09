@@ -50,4 +50,4 @@ jobs:
           app-name: 'pysanket'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FFAF427A3F2B43EE92B1C55B907B5CF3 }}
-          package: '*.war'
+          package: '*.jar'
